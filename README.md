@@ -11,6 +11,6 @@ During the school year, 62% of Oklahoma kids rely on free-and-reduced meals to r
 This website will use Mapbox, as well as data provided by Hunger Free Oklahoma, to provide an interactive map that will help locate summer meals programs, and get more information on when locations are open, and what is provided.
 
 ## Data Sources
-1. Hunger Free Oklahoma [CSV file](summer-meals-sites/Oklahoma Summer Meals Sites 7-10-2017.csv).
+1. Hunger Free Oklahoma [CSV file](https://github.com/codefortulsa/summer-meals-sites/blob/master/Oklahoma%20Summer%20Meals%20Sites%20%207-10-2017.csv).
 2. Tulsa World list of [Tulsa Summer Café sites](http://www.tulsaworld.com/uploaded_photos/ne-summermealsg/image_8b7a7f8c-1ff6-50ef-ae4f-34fe7be4be94.html)
 3. Tulsa World list of [Broken Arrow Summer Café sites](http://www.tulsaworld.com/uploaded_photos/ne-summermealsg/image_0fb8e225-504e-579b-8dd4-38751942dade.html)
