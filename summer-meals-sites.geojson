@@ -1,0 +1,131 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central High School",
+        "description": "description1"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.0271166,
+          36.162906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Country Club Gardens",
+        "description": "description2"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.0022744,
+          36.1692928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lombard",
+        "description": "description3"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.0054193,
+          36.1737198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Metropolitan Baptist",
+        "description": "description4"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.0078845,
+          36.189673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mark Twain Elementary",
+        "description": "description5"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.04046,
+          36.14944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sandy Park",
+        "description": "description6"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.061966,
+          36.14203
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eugene Field Elementary",
+        "description": "description7"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.00574,
+          36.13037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merge Church",
+        "description": "description8"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.019936,
+          36.10506
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Parkview Terrace",
+        "description": "description9"
+      },
+      "geometry": {
+        "coordinates": [
+         -96.010345,
+          36.078087
+        ],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
